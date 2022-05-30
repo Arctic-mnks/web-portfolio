@@ -1,0 +1,64 @@
+body{
+    margin: 0px;
+    font-family: 'Nunito', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+p{
+    color: aqua;
+}
+.name{
+    color: blueviolet;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 80%;
+}
+.top-banner{
+    background-image: url("cool-background.png");
+}
+section{
+    height: 700px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,yellow);
+    padding: 10px 15px;
+    border-radius: 10px;
+    color: beige;
+    font-weight: 800;
+}
+.killjoy-phase{
+    background-image: url("cool-background.png");
+}
+.chamber-phase{
+    background-image: url("cool-background.png");
+}
+.description{
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 3px;
+    height: 50%;
+    width: 35%;
+    background-color: aliceblue;
+}
+.final-phase{
+    background-image: url("cool-background.png");
+}
+#killjoy{
+    border-left: 5px solid orange;
+}
+#chamber{
+    border-left: 5px solid yellow;
+}
+footer{
+    text-align: center ;
+}
